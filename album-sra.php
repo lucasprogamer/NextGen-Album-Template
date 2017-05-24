@@ -33,7 +33,6 @@
 											</figcaption>
 										</figure>
 									</li>
-								</ul>
 
 
 
@@ -43,6 +42,7 @@
 	</div>
 
  	<?php endforeach; ?>
+</ul>
 
 	<!-- Pagination -->
     <br class="ngg-clear"/>
