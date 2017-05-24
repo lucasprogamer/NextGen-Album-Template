@@ -34,15 +34,15 @@
 										</figure>
 									</li>
 
-
-
-
-		            <!-- </div> -->
-		        </div>
-	</div>
-
  	<?php endforeach; ?>
 </ul>
+
+
+
+
+<!-- </div> -->
+</div>
+
 
 	<!-- Pagination -->
     <br class="ngg-clear"/>
